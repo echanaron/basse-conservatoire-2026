@@ -56,7 +56,7 @@ tenorNotes = \relative do' {
 basseNotes = \relative do' {
 	\voiceTwo
 	do4( sib lab sol)~ | sol fa( mib re) | mib( fa sol lab) | sib-- fa-- sib,--~ sib8 r8 |
-	si4( do re mib) | fa( sol8 fa8) mib4 lab | re,2.( fa4) | do2( re2) |
+	si4( do re mib) | fa( sol8 fa8) mib4 lab | re,2.( sol4) | do,2( re2) |
 	mib4 mib,( fa sol)~ | sol fa( sib2) | do4( lab sib2) | mib,2~ mib4 r4 |
 	\bar "|."
 }
